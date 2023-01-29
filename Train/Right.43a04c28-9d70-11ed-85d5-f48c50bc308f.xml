@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Right</folder>
+	<filename>Right.43a04c28-9d70-11ed-85d5-f48c50bc308f.jpg</filename>
+	<path>C:\Users\hp\Documents\Tensorflow\TFODCourse\Tensorflow\workspace\images\collectedimages\Right\Right.43a04c28-9d70-11ed-85d5-f48c50bc308f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>205</ymin>
+			<xmax>588</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>
